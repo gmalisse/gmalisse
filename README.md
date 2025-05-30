@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://www.codewars.com/users/gmalisse/badges/large
+
 <!--
 **gmalisse/gmalisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
