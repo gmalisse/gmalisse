@@ -4,3 +4,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/gustavo-malisse/
 
 ![codewars](https://www.codewars.com/users/gmalisse/badges/large)
+![gmalisse's Stats](https://github-readme-stats.vercel.app/api?username=gmalisse&theme=dracula&show_icons=true&hide_border=true&count_private=true)
